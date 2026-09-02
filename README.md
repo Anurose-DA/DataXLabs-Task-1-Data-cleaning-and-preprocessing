@@ -40,5 +40,4 @@ The following steps were performed:
 10. Validated the cleaned dataset.
 11. Loaded the cleaned dataset back into Excel.
 
-
 Data Analyst Intern – DataX Labs
