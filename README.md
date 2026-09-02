@@ -1,8 +1,8 @@
 # DataX Labs – Task 1: Data Cleaning and Preprocessing
 
-##  Project Overview
+##  Task 1 Overview
 
-This project was completed as part of the **Data Analyst Internship at DataX Labs**.
+This task was completed as part of the **Data Analyst Internship at DataX Labs**.
 
 The objective of this task was to clean and preprocess a raw sales dataset using **Microsoft Excel Power Query** and prepare it for further analysis.
 
